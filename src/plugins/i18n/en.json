@@ -1,0 +1,24 @@
+{
+    "lang": {
+        "fr": "French",
+        "en": "English"
+    },
+    "field": {
+        "required": "This field is required"
+    },
+    "form": {
+        "translation": "Choose langage",
+        "error": "An error has occured",
+
+        "email": "Mail",
+        "password": "Password"
+    },
+    "pages": {
+        "login": {
+            "title": "Login",
+            "save": "Login",
+            "forgot": "Forgot password ?",
+            "register": "Not account ? Register !"
+        }
+    }
+}
